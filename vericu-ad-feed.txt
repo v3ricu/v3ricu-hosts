@@ -1,3 +1,6 @@
+127.0.0.1 digi24.ro
+
+
 # ====== Samsung Ads
 127.0.0.1 ad.samsungadhub.com
 127.0.0.1 ads.samsungads.com
@@ -50,3 +53,4 @@
 127.0.0.1 ads.facebook.com
 127.0.0.1 ads-api.facebook.com
 127.0.0.1 adlog.facebook.com
+
