@@ -1,52 +1,52 @@
 # ====== Samsung Ads
-ad.samsungadhub.com
-ads.samsungads.com
-samsungads.com
-config.samsungads.com
-events.samsungads.com
-gpm.samsungqbe.com
-log-config.samsungacr.com
-samsungcloudsolution.com
-samsungcloudsolution.net
-samsungotn.net
-tvx.adgrx.com
-osb-apps.samsungqbe.com
-log-ingestion-eu.samsungacr.com
+127.0.0.1 ad.samsungadhub.com
+127.0.0.1 ads.samsungads.com
+127.0.0.1 samsungads.com
+127.0.0.1 config.samsungads.com
+127.0.0.1 events.samsungads.com
+127.0.0.1 gpm.samsungqbe.com
+127.0.0.1 log-config.samsungacr.com
+127.0.0.1 samsungcloudsolution.com
+127.0.0.1 samsungcloudsolution.net
+127.0.0.1 samsungotn.net
+127.0.0.1 tvx.adgrx.com
+127.0.0.1 osb-apps.samsungqbe.com
+127.0.0.1 log-ingestion-eu.samsungacr.com
 
 # ====== Xiaomi / HyperOS Ads
-ads.mipush.xiaomi.com
-api.ad.xiaomi.com
-c1.ad.xiaomi.com
-d1.ad.xiaomi.com
-d2.ad.xiaomi.com
-d3.ad.xiaomi.com
-d4.ad.xiaomi.com
-d5.ad.xiaomi.com
-d6.ad.xiaomi.com
-event.mipush.xiaomi.com
-log.ad.xiaomi.com
-stat.mistat.xiaomi.com
-smi2.mi.com
-tracking.miui.com
-v6msp.micloud.xiaomi.net
-v6msp.micloud.xiaomi.com
-ads.xiaomi.net
-ads.misdk.com
-ads.api.xiaomi.com
-api.ad.xiaomi.net
-push.ad.xiaomi.com
-app.ads.mios.com
+127.0.0.1 ads.mipush.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 c1.ad.xiaomi.com
+127.0.0.1 d1.ad.xiaomi.com
+127.0.0.1 d2.ad.xiaomi.com
+127.0.0.1 d3.ad.xiaomi.com
+127.0.0.1 d4.ad.xiaomi.com
+127.0.0.1 d5.ad.xiaomi.com
+127.0.0.1 d6.ad.xiaomi.com
+127.0.0.1 event.mipush.xiaomi.com
+127.0.0.1 log.ad.xiaomi.com
+127.0.0.1 stat.mistat.xiaomi.com
+127.0.0.1 smi2.mi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 v6msp.micloud.xiaomi.net
+127.0.0.1 v6msp.micloud.xiaomi.com
+127.0.0.1 ads.xiaomi.net
+127.0.0.1 ads.misdk.com
+127.0.0.1 ads.api.xiaomi.com
+127.0.0.1 api.ad.xiaomi.net
+127.0.0.1 push.ad.xiaomi.com
+127.0.0.1 app.ads.mios.com
 
 # ====== Facebook / Meta tracking
-pixel.facebook.com
-www.facebook.com/tr
-connect.facebook.net
-graph.facebook.com/tr
-business.facebook.com
-business-api.facebook.com
-analytics.facebook.com
-fb.me
-facebook.com/tr
-ads.facebook.com
-ads-api.facebook.com
-adlog.facebook.com
+127.0.0.1 pixel.facebook.com
+127.0.0.1 www.facebook.com/tr
+127.0.0.1 connect.facebook.net
+127.0.0.1 graph.facebook.com/tr
+127.0.0.1 business.facebook.com
+127.0.0.1 business-api.facebook.com
+127.0.0.1 analytics.facebook.com
+127.0.0.1 fb.me
+127.0.0.1 facebook.com/tr
+127.0.0.1 ads.facebook.com
+127.0.0.1 ads-api.facebook.com
+127.0.0.1 adlog.facebook.com
